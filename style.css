@@ -1,0 +1,45 @@
+body{
+text-align: center      ;
+}
+#mainbox{
+    height: 70px;
+    width: 340px;
+    margin: auto;
+   background-color: aqua;
+   margin-bottom: 30px;
+   border-color: black;
+   border-radius: 10px;
+
+}
+#todo-item{
+    margin-top: 20px;
+}
+#addlist {
+    background-color: aqua;
+    height: 30px;
+    width: 200px;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin: auto;
+    border-radius: 20px;
+}
+#list ul{
+    margin-top: 10px;
+   
+
+
+}
+
+#btns{
+    float: right;
+    margin-top: 5px;
+    margin-right: 5px;
+    border-radius: 20px;
+
+}
+
+
+#ttt{
+    margin-top: 2px;
+}
